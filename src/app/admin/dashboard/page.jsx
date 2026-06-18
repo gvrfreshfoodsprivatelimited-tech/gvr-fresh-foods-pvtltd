@@ -194,7 +194,7 @@ export default function AdminDashboard() {
       <header className="bg-[#1a2e14] px-6 lg:px-16 py-4 flex items-center justify-between">
         <div className="flex items-center ">
           <Image
-            src="/GVRLOGO.png"
+            src="/images/og-default.png"
             alt="GVR Fresh Foods Logo"
             width={160}
             height={100}

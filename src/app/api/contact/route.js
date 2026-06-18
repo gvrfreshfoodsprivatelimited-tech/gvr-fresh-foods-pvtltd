@@ -4,7 +4,7 @@ import nodemailer from "nodemailer";
 // ── Email config ──────────────────────────────────────
 const OWNER_EMAIL = "gvrfreshfoodsprivatelimited@gmail.com";
 const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || "https://gvrfreshfoods.com";
-const LOGO_URL = `${SITE_URL}/GVRLogo.png`;
+const LOGO_URL = `${SITE_URL}/images/og-default.png`; // Update with your logo path
 
 // ── Transporter ───────────────────────────────────────
 function createTransporter() {

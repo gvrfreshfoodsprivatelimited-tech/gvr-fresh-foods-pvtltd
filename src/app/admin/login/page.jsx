@@ -58,7 +58,7 @@ export default function AdminLogin() {
         <div className="text-center mb-4 pr-6">
           <div className="flex justify-center ">
             <Image
-              src="/GVRLOGO.png"
+              src="/images/og-default.png"
               alt="GVR Fresh Foods Logo"
               width={160}
               height={100}
